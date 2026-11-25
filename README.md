@@ -16,7 +16,7 @@ A community learning path for becoming an AI engineer: **Practice -> Build -> De
 
 Progress above reflects the linked learning tracker at the time this README was written. Update the tracker as your progress changes; learners can use it as a reference and keep their own copy for personal progress.
 
-**Full spreadsheet and learning tracker:** [AI Engineer Roadmap tracker](https://docs.google.com/spreadsheets/d/e/2PACX-1vT5p8fpMJfCjmiNyqs9c_5sW7P4xQLeyTgUDXUcBtxACVvuXJHtVe73VHRayxpS7UMEA9P1zWnDF91k/pubhtml)
+**Full spreadsheet and learning tracker:** [AI Engineer Roadmap tracker](https://docs.google.com/spreadsheets/d/e/2PACX-1vRu8n62Gnx8XLbnmyl6RJR1a8WCiczhIqydGvn06EVnD8XLo7IdXz6dfOv6D6ZDT1RAgtWS-srq7bWq/pubhtml)
 
 ## How to use this roadmap
 
